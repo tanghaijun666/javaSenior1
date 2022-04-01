@@ -9,13 +9,6 @@ public class first {
         System.out.println("the first ");
         System.out.println("你不是好人");
         System.out.println("你不是好人");
-        System.out.println("你不是好人");
-        System.out.println("你不是好人");
-        System.out.println("你不是好人");
-        System.out.println("你不是好人");
-        System.out.println("你不是好人");
-        System.out.println("你不是好人");
-        System.out.println("你不是好人");
 
     }
 }
