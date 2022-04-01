@@ -10,6 +10,7 @@ public class first {
         System.out.println("你不是好人");
         System.out.println("你不是好人");
         System.out.println("master");
+        System.out.println("hot-fix");
 
     }
 }
